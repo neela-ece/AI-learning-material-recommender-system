@@ -1,2 +1,2 @@
 An AI Learning Material Recommender System is an intelligent platform that recommends suitable learning resources to students based on their interests, learning behavior, skill level, and academic performance. The system uses Artificial Intelligence and Machine Learning algorithms to provide personalized study materials such as videos, notes, tutorials, quizzes, articles, and courses.
-The main objective of the system is to help students learn efficiently by reducing the time spent searching for relevant study materials.# AI-learning-material-recommender-system
+The main objective of the system is to help students learn efficiently by reducing the time spent searching for relevant study materials.
